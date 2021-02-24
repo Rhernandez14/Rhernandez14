@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Sensores 	| X  	| Y   	|
-|----------	|----	|-----	|
-| Co2      	| 20 	| 30  	|
-| temp     	| 11 	| 27  	|
-| O2       	| 22 	| 333 	|
