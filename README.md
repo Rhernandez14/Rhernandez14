@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🚗 I’m currently working on Proffessional fuel solutions.
-- 📚  I’m studying at the Instituto Tecnologico de Tijuana.
+- 🚗 I’m currently working on Professional fuel solutions.
+- 📚 I’m studying at the Instituto Tecnologico de Tijuana.
 - 🌱 I’m currently learning: interface languagues 💻, languages and automata 📜, database administration 🔑.
 - ⚡ Fun fact: Videogames 🎮, Music 🎵, TV Series 📺
 <!--
