@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Proffessional fuel solutions
-🖥  I’m
-🌱 I’m currently learning ...
+-🔭 I’m currently working on Proffessional fuel solutions
+-🖥  I’m studing on Instituto Tecnologico de Tijuana
+-🌱 I’m currently learning interface languagues
 <!--
 **Rhernandez14/Rhernandez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
