@@ -6,13 +6,13 @@
 
 School timetable:
 
-Monday | Tuesday | Wednesday | Thursday |
------------- | -------------| --------------| -------------
-Simulation |                             | Simulation
-Software management | Software management | Software management | Software management 
-Switching and routing | Switching and routing | Switching and routing | Switching and routing
+Monday | Tuesday | Wednesday | Thursday | Friday |
+------------ | -------------| --------------| ------------- | -------------
+Simulation |                             | Simulation  |         | Simulation
+Software management | Software management | Software management | Software management | Software management 
+Switching and routing | Switching and routing | Switching and routing | Switching and routing  | Switching and routing
 Programmable systems | Programmable systems | Programmable systems | Programmable systems
-Languages and automata 2 | Languages and automata 2 | Languages and automata 2 | Languages and automata 2
+Languages and automata 2 | Languages and automata 2 | Languages and automata 2 | Languages and automata 2 | Languages and automata 2
 Logical and functional programming | Logical and functional programming | Logical and functional programming | Logical and functional programming |
 
 
