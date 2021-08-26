@@ -6,14 +6,14 @@
 
 School timetable:
 
-Monday | Second Header
+Monday | Tuesday
 ------------ | -------------
-Simulation | Content cell 2
-software management | Content column 2
-Switching and routing | Content column 2
-Programmable systems | Content column 2
-Languages and automata 2 | Content column 2
-Logical and functional programming | Content column 2
+Simulation | 
+Software management | Software management
+Switching and routing | Switching and routing
+Programmable systems | Programmable systems 
+Languages and automata 2 | Languages and automata 2
+Logical and functional programming | Logical and functional programming
 
 
 <!--
