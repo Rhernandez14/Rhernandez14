@@ -4,12 +4,16 @@
 - 🌱 I’m currently learning: programmable systems 💻, Languages and automata 2📜,  Logical and functional programming ⚡
 - ⚡ Fun fact: Videogames 🎮, Music 🎵, TV Series 📺
 
-#school timetable:
+School timetable:
 
-First Header | Second Header
+Monday | Second Header
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Simulation | Content cell 2
+software management | Content column 2
+Switching and routing | Content column 2
+Programmable systems | Content column 2
+Languages and automata 2 | Content column 2
+Logical and functional programming | Content column 2
 
 
 <!--
