@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: programmable systems 💻, Languages and automata 2📜,  Logical and functional programming ⚡
 - ⚡ Fun fact: Videogames 🎮, Music 🎵, TV Series 📺
 
+#school timetable:
 
 First Header | Second Header
 ------------ | -------------
